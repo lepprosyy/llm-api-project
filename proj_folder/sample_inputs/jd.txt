@@ -1,0 +1,1 @@
+Meklējam pieredzējušu Python izstrādātāju ar spēcīgām zināšanām Django un REST API izstrādē. Nepieciešama pieredze ar datubāzēm (PostgreSQL), versiju kontroli (Git) un mākoņpakalpojumiem (AWS). Vēlama pieredze ar Docker un agilām metodoloģijām. Labas komunikācijas prasmes un spēja strādāt komandā ir obligāta.

@@ -1,0 +1,19 @@
+{
+  "match_score": 15,
+  "summary": "Kandidāta CV uzrāda pieredzi ar Java, Spring Boot un MySQL, kas būtiski atšķiras no amata prasībām par Python, Django un PostgreSQL. Tomēr kandidātam ir atbilstoša pieredze ar Git un Docker.",
+  "strengths": [
+    "Git pieredze",
+    "Docker pieredze"
+  ],
+  "missing_requirements": [
+    "Python izstrādes pieredze",
+    "Django pieredze",
+    "REST API izstrādes pieredze (Python/Django kontekstā)",
+    "PostgreSQL datubāzu pieredze",
+    "AWS mākoņpakalpojumu pieredze",
+    "Pieredze ar agilām metodoloģijām",
+    "Labas komunikācijas prasmes",
+    "Spēja strādāt komandā"
+  ],
+  "verdict": "not a match"
+}

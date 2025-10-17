@@ -1,0 +1,19 @@
+{
+  "match_score": 85,
+  "summary": "Kandidāts ir ļoti piemērots dotajai Python izstrādātāja vakancei, jo viņam ir 5 gadu pieredze un visas obligātās prasmes, kas minētas darba aprakstā. Trūkst tikai vēlamās prasības par Docker un agilām metodoloģijām.",
+  "strengths": [
+    "5 gadu pieredze Python izstrādē",
+    "Pieredze ar Django",
+    "REST API izstrādes pieredze",
+    "Labas zināšanas PostgreSQL",
+    "Pieredze ar Git versiju kontroli",
+    "Pieredze ar AWS mākoņpakalpojumiem",
+    "Labas komunikācijas prasmes",
+    "Spēja strādāt komandā"
+  ],
+  "missing_requirements": [
+    "Pieredze ar Docker (vēlama)",
+    "Pieredze ar agilām metodoloģijām (vēlama)"
+  ],
+  "verdict": "strong match"
+}

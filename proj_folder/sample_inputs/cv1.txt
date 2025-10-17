@@ -1,0 +1,1 @@
+Esmu Python izstrādātājs ar 5 gadu pieredzi. Esmu strādājis ar Django un izstrādājis vairākus REST API. Man ir labas zināšanas PostgreSQL un Git. Esmu izmantojis AWS projektos. Esmu komandas spēlētājs ar labām komunikācijas prasmēm.
